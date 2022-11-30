@@ -1,0 +1,15 @@
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/bin/Debug/net6.0/GameDeveloper-I
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/bin/Debug/net6.0/GameDeveloper-I.deps.json
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/bin/Debug/net6.0/GameDeveloper-I.runtimeconfig.json
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/bin/Debug/net6.0/GameDeveloper-I.dll
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/bin/Debug/net6.0/GameDeveloper-I.pdb
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/GameDeveloper-I.csproj.AssemblyReference.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/GameDeveloper-I.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/GameDeveloper-I.AssemblyInfoInputs.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/GameDeveloper-I.AssemblyInfo.cs
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/GameDeveloper-I.csproj.CoreCompileInputs.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/GameDeveloper-I.dll
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/refint/GameDeveloper-I.dll
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/GameDeveloper-I.pdb
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/GameDeveloper-I.genruntimeconfig.cache
+/Users/stevenbtobias/Desktop/CodingDojo/C-Sharp/dotnet/GameDeveloper-I/obj/Debug/net6.0/ref/GameDeveloper-I.dll
